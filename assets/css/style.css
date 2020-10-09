@@ -1,0 +1,140 @@
+body {
+  text-align: center;
+  color: #ffffff;
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+  background: #000000;
+}
+
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+nav {
+  text-align: center;
+  padding: 0.8rem;
+  width: 100vw;
+}
+
+nav ul li {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.oscuro {
+  font-weight: 500;
+  font-size: 2.5rem;
+
+}
+.hero-section {
+  text-align: center;
+  width: 100vw;
+  padding: 0;
+}
+
+footer{
+background: #1e1a13;
+padding: 3rem;
+}
+
+footer p{
+font-weight: 300;
+font-size: 1.25rem;
+}
+
+.link {
+color: #ffffff;
+text-decoration: none;
+}
+
+#header{
+  width: 100%;
+}
+
+.desc-section {
+  vertical-align: middle;
+  height: 21.75rem;
+  box-sizing: border-box;
+padding-left: 9.375rem;
+}
+
+.foto-iguana1{
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: 9.37rem;
+  margin-top: 3.5rem;
+  margin-left: 6rem;
+}
+
+.descripcion h4 {
+  font-weight: 300;
+  font-size: 1rem;
+  white-space: normal;
+  margin: 1rem;
+  text-align: left;
+}
+.descripcion{
+  width: 29.6875rem;
+  text-align: left;
+  white-space: normal;
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+.foto-iguana1 img{
+  height: 14.8125rem;
+  width: 24.9375rem;
+}
+
+.descripcion, .foto-iguana{
+  display: inline-block;
+}
+.icons-section{
+  background: #1e1a13;
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+  padding: 2rem;
+  vertical-align: middle;
+}
+
+h2{
+  font-weight: 500;
+  font-size: 2.9375rem;
+  padding: 3rem;
+}
+
+.caracteristicas{
+  display: inline-block;
+  text-align: center;
+  font-weight: 300;
+  font-size: 1.5rem;
+  vertical-align: middle;
+  padding: 0 3.5rem 1rem;
+}
+.fas, .far{
+font-size: 2.5rem;
+}
+
+.paz{
+  vertical-align: middle;
+  text-align: center;
+  margin-left: 3.5rem;
+}
+h3{
+  font-weight: 300;
+  font-size: 1.875rem;
+  padding: 2rem;
+}
+
+.foto-iguana img{
+  width: 19.75rem;
+  height: 12.625rem;
+}
+.foto-iguana{
+  margin: 4.5625rem 0.5rem;
+  display: inline-block;
+  vertical-align: middle;
+}
